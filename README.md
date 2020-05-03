@@ -1,5 +1,6 @@
 # MaskingUtils
-_Utilities that help mask specific types of data in various industries_
+_Utilities in the Java language that help mask specific types of data for various industries, which is useful for 
+logging and compliant database storage_
 
 Current masking methods include:
 * Email addresses
